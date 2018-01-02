@@ -1,5 +1,5 @@
 # DataMining
-# 实现Apriori algorithm 和 FP-Growth algorithm，使用python，数据使用见下编号2
+#实现Apriori algorithm 和 FP-Growth algorithm，使用python，数据使用见下编号2
 
 1.Implemented the Apriori algorithm and the FP-Growth algorithm for frequent itemset mining.
 
